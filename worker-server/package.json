@@ -1,0 +1,11 @@
+{
+  "name": "worker-server",
+  "version": "1.0.0",
+  "main": "src/worker.js",
+  "scripts": {
+    "start": "node src/worker.js"
+  },
+  "dependencies": {
+    "nats": "^2.14.0"
+  }
+}
