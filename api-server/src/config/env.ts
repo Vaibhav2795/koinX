@@ -4,7 +4,6 @@ dotenv.config()
 
 const requiredEnvVars = [
   "PORT",
-  "NEXT_PUBLIC_NODE_ENV",
   "MONGO_DB_USER_NAME",
   "MONGO_DB_PASSWORD",
   "MONGO_DB_CLUSTER",
